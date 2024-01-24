@@ -1,0 +1,20 @@
+1 1 What is the difference between an algorithm and a data structure?
+1 2 What are the basic operations in a linked list data structure?
+2 1 Compare and contrast a stack and a queue data structure.
+2 2 What is the time complexity of searching in a binary search tree?
+2 3 Explain the concept of a hash table and its purpose.
+3 1 What is the difference between a breadth-first search (BFS) and a depth-first search (DFS) algorithm?
+3 1 Define the term "Big-O notation" and its significance in algorithm analysis.
+4 2 Describe the process of sorting an array using the quicksort algorithm.
+5 3 Explain the concept of dynamic programming and give an example where it can be applied.
+5 1 What is the purpose of a priority queue data structure and how is it different from a normal queue?
+6 2 Describe the steps involved in performing a binary search algorithm on a sorted array.
+6 2 Explain the concept of recursion and discuss its advantages and disadvantages.
+7 1 Compare and contrast a binary tree and a binary search tree.
+7 2 What is the purpose of memoization in dynamic programming algorithms?
+7 3 Discuss the differences between a singly linked list and a doubly linked list.
+8 2 Explain the concept of graph traversal and differentiate between depth-first and breadth-first traversal.
+9 3 Discuss the concept of time complexity and its importance in algorithm analysis.
+9 2 Describe the process of inserting a new element in a heap data structure and maintaining the heap property.
+10 1 Explain the concept of a trie data structure and its applications.
+10 2 Discuss the difference between an array and a linked list data structure.
